@@ -16,18 +16,9 @@ public class calculator{
         return a*b;
     }
 }
-public class calclator{
-    public static int divide(int a, int b){
-        if(b==){
-            throw new
-            ArithmethicException("cannot be divided by zero");
-        }
-        return a/b;
-    }
-public static int divide(int a, int b) {
+    public static int divide(int a, int b) {
         if (b == 0) {
             throw new ArithmeticException("Cannot be divided by zero");
         }
         return a / b;
     }
-}
