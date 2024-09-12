@@ -24,10 +24,10 @@ public class calclator{
         }
         return a/b;
     }
-}
 public static int divide(int a, int b) {
         if (b == 0) {
             throw new ArithmeticException("Cannot be divided by zero");
         }
         return a / b;
     }
+}
