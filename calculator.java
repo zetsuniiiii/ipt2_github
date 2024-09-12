@@ -24,8 +24,6 @@ public class calclator{
         }
         return a/b;
     }
-}
-
  public static int modulus(int a, int b) {
         return a % b;
     }
@@ -77,3 +75,4 @@ public class calclator{
 
         scanner.close();
     }
+}
