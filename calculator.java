@@ -16,3 +16,12 @@ public class calculator{
         return a*b;
     }
 }
+public class calclator{
+    public static int divide(int a, int b){
+        if(b==){
+            throw new
+            ArithmethicException("cannot be divided by zero");
+        }
+        return a/b;
+    }
+}
